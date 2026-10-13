@@ -1,0 +1,5 @@
+Open index.html with your browser or Live Server.
+about.html: what I do, skills and education.
+projects.html: restored project collection with filters.
+Home: founder initiatives, Silent Noise book, photos and contact.
+Book enquiry uses email; no ebook file has been supplied in this request.
